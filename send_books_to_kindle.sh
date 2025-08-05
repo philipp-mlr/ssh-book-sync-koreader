@@ -3,7 +3,7 @@
 KINDLE_IP="192.168.1.X" #TODO: change me!
 KINDLE_PORT="2222"      #TODO: change me!
 USER="root"
-BOOKS_DIR="/source_dir"
+BOOKS_DIR="/source_dir" #TODO: change me!
 DEST_DIR="/mnt/us/books"
 
 echo "📚 Starting book transfer to Kindle at ${KINDLE_IP}:${KINDLE_PORT}..."
