@@ -1,3 +1,7 @@
+# ⚠️ Discontinued
+
+I discovered booklore and their OPDS (Open Publication Distribution System) integration which is a better solution for me and therefore discontinue working on this repository.
+
 # 📚 Kindle Book Transfer Script
 
 This repository contains a simple Bash script to transfer eBooks from your local media directory to your Kindle device over the network using `scp`. 🚀
